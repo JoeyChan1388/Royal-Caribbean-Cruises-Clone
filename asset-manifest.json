@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/css/main.b0bab906.css",
+    "main.js": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/js/main.b3d4dd92.js",
+    "static/media/Planner_BG.jpg": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/media/Planner_BG.5bc048eea5770e8db39f.jpg",
+    "static/media/Hero_BG.jpg": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/media/Hero_BG.2b6a79e83387f4270100.jpg",
+    "static/media/logo.png": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/media/logo.bce7d5613062d69a6df9.png",
+    "index.html": "/joeychan1388.github.io/royal-caribbean-cruises-clone/index.html",
+    "main.b0bab906.css.map": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/css/main.b0bab906.css.map",
+    "main.b3d4dd92.js.map": "/joeychan1388.github.io/royal-caribbean-cruises-clone/static/js/main.b3d4dd92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0bab906.css",
+    "static/js/main.b3d4dd92.js"
+  ]
+}
