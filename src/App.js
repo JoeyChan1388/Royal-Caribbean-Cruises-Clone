@@ -15,11 +15,11 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/Ships" element={<Ships />} />
-        <Route exact path="/Planner" element={<Planner />} />
-        <Route exact path="/Signin" element={<Signin />} />
-        <Route exact path="/Signup" element={<Signup />} />
+        <Route exact path="https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/" element={<Home />} />
+        <Route exact path="https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/Ships" element={<Ships />} />
+        <Route exact path="https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/Planner" element={<Planner />} />
+        <Route exact path="https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/Signin" element={<Signin />} />
+        <Route exact path="https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/Signup" element={<Signup />} />
       </Routes>
       <Footer></Footer>
     </Router>

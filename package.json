@@ -2,7 +2,7 @@
   "name": "react-website-showcase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/",
+  "homepage": "https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
