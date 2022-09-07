@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.banner-image {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+
+.background-image {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: -999;
+}
+
+
+.indented-content {
+  padding-left: 9rem;
+  width:  65rem
+}
+
+.centered-content {
+  text-align: center;
+}
+
+.ships-page-header {
+  color: rgb(6, 21, 86);
+  font-size: 3rem;
+  font-family: 'Raleway';
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.ships-page-header-2 {
+  color: rgb(6, 21, 86);
+  font-size: 2rem;
+  font-family: 'Raleway';
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.grey-paragraph {
+  color: rgb(87, 87, 87);
+  line-height: 1.5;
+  font-size: 1.125rem;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(15, 122, 194);
+}

@@ -1,0 +1,48 @@
+.card-transition {
+    background: linear-gradient(rgba(65, 162, 227, 0) 0%, #2b6e99 10%,#3b9ad4 50%, #ffffff 75%);
+    top: 70vh;
+    height: 120vh;
+    position: relative;
+    z-index: 1;
+    align-content: center;
+}
+
+.cards-items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-gap: 20px;
+    margin-bottom: 24px;
+}
+
+.cards-items-short {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-gap: 20px;
+}
+
+.cards-items-long {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 280px;
+    grid-gap: 20px;
+    margin-bottom: 24px;
+}
+
+.cards-items-longest {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-gap: 20px;
+    height: 260vh;
+    width: 260vw;
+    margin-bottom: 24px;
+}
+
+.cards-container{
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    margin: -30vh 12vw 0 12vw
+}

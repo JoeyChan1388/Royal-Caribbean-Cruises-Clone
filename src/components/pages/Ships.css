@@ -1,0 +1,19 @@
+.ships-page-header {
+    color: rgb(6, 21, 86);
+    font-size: 3rem;
+    font-family: 'Raleway';
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.ships-page-header-2 {
+    color: rgb(6, 21, 86);
+    font-size: 2rem;
+    font-family: 'Raleway';
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+strong {
+    font-weight: bold;
+}
