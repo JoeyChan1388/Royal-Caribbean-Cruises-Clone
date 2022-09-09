@@ -13,7 +13,7 @@ export const Button = ({children, type, onClick, buttonStyle, buttonSize}) => {
     const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
     return(
-        <Link to={'/Signin'} className='btn-mobile'>
+        <Link to={'https://joeychan1388.github.io/Royal-Caribbean-Cruises-Clone/Signin'} className='btn-mobile'>
             {/* Button made up using the props passed in */}
             <button className={`btn ${checkButtonStyle} ${checkButtonSize}`} onClick={onClick} type={type}>
                 {children}
