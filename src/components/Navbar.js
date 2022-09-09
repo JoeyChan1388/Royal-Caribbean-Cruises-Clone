@@ -38,7 +38,7 @@ function Navbar() {
     <>
         <nav className='navbar'>
             <div className ='navbar-container'>
-                <Link to ="/Royal-Caribbean-Cruises-Clone/" className="navbar-logo" onClick={closeMobileMenu}> 
+                <Link to ="Royal-Caribbean-Cruises-Clone/" className="navbar-logo" onClick={closeMobileMenu}> 
                     <img src={require('../assets/logo.png')} alt='Royal Caribbean Cruises' title='Royal Caribbean Cruises' width={160} height={41}></img>
                 </Link>
                 <div className='menu-icon' onClick={handleMenuClick}>
@@ -46,22 +46,22 @@ function Navbar() {
                 </div>
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                 <li className='nav-item'> 
-                        <Link to='/Royal-Caribbean-Cruises-Clone/Cruises' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='Royal-Caribbean-Cruises-Clone/Cruises' className='nav-links' onClick={closeMobileMenu}>
                             CRUISES
                         </Link> 
                     </li>
                 <li className='nav-item'> 
-                        <Link to='/Royal-Caribbean-Cruises-Clone/Destinations' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='Royal-Caribbean-Cruises-Clone/Destinations' className='nav-links' onClick={closeMobileMenu}>
                             DESTINATIONS
                         </Link> 
                     </li>
                     <li className='nav-item'> 
-                        <Link to='/Royal-Caribbean-Cruises-Clone/Ships' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='Royal-Caribbean-Cruises-Clone/Ships' className='nav-links' onClick={closeMobileMenu}>
                             SHIPS
                         </Link> 
                     </li>
                     <li className='nav-item'> 
-                        <Link to='/Royal-Caribbean-Cruises-Clone/Planner' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='Royal-Caribbean-Cruises-Clone/Planner' className='nav-links' onClick={closeMobileMenu}>
                             TRIP PLANNER
                         </Link> 
                     </li>
